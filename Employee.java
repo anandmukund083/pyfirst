@@ -7,7 +7,7 @@ class Employee{
 
   
 	static int mark(){
-	return marks*6;}
+	return marks*6*2;}
     }
     public static void main(String[] args) {
         Student.name="Anand";
